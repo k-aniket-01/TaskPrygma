@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Study React Native",
+      "description": "Understand navigation and API integration",
+      "dueDate": "2025-07-01",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "title": "Submit Project",
+      "description": "Finish TaskPrygma app",
+      "dueDate": "2025-07-03",
+      "completed": true
+    },
+    {
+      "id": "a870",
+      "title": "Abc ",
+      "description": "Abc def xyz",
+      "dueDate": "2025-07-01",
+      "completed": false
+    },
+    {
+      "id": "4bc7",
+      "title": "Qwert",
+      "description": "Asdfggjkkl",
+      "dueDate": "2025-06-30",
+      "completed": false
+    }
+  ]
+}
